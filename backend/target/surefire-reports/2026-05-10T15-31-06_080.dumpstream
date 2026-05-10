@@ -1,0 +1,5 @@
+# Created at 2026-05-10T15:31:06.259
+Boot Manifest-JAR contains absolute paths in classpath 'D:\charles\program\ai\apps\02.work session\session-gsb1v1_0509\gitlab source\B-635\B-635-TestM_2\backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
